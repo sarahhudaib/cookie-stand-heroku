@@ -62,6 +62,7 @@ INSTALLED_APPS = [
     # local
     "accounts",
     "things",
+    "cookie_stands",
 ]
 
 MIDDLEWARE = [
